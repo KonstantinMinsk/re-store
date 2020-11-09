@@ -1,0 +1,8 @@
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar-brand:hover {
+  color: rgba(255,255,255,.75) !important;
+}

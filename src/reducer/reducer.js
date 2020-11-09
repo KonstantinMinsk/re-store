@@ -1,5 +1,16 @@
 const initialState = {
-    books: [],
+    books: [
+      // {
+      //     id: 1,
+      //     author: 'Mick',
+      //     title: 'Start JS'
+      // },
+      // {
+      //     id: 2,
+      //     author: 'Nickel',
+      //     title: 'Start React'
+      // },
+    ],
 }
 
 const reducer = (state = initialState, action) => {
